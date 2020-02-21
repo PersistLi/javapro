@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="838b5473-f981-4df0-b1d3-7656e402be64" name="默认更改列表" comment="图书管理">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javapro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/ColaEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Game/Licensingdevice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/META-INF/javapro.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/SalesEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Test/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Test/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Test/balldown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/Test/baoshu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/booklibrary/Mybook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/booklibrary/MybookMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/com/neuedu/Dao/deptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/com/neuedu/pojo/dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/com/neuedu/service/deptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/com/neuedu/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javapro/com/neuedu/web/deptWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neuedu/Dao/deptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neuedu/pojo/dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neuedu/service/deptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neuedu/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neuedu/web/deptWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booklibrary/MybookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklibrary/MybookMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javapro" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\IdeaProjects\javapro" />
+        <option value="C:\Users\Administrator\IdeaProjects\javapro\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQOs6lGFbnvjhpTkwlKvAJPIZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/Neusoft/mysql-connector-java-5.1.6.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.BubbleSort" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Fibonacci" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="javapro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="balldown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.balldown" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.test" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="Application.balldown" />
+        <item itemvalue="Application.Fibonacci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838b5473-f981-4df0-b1d3-7656e402be64" name="默认更改列表" comment="" />
+      <created>1580975055359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580975055359</updated>
+      <workItem from="1580975061721" duration="2716000" />
+      <workItem from="1580983881550" duration="93000" />
+      <workItem from="1580986263894" duration="612000" />
+      <workItem from="1581036898027" duration="607000" />
+      <workItem from="1581320014060" duration="1502000" />
+      <workItem from="1581323545931" duration="317000" />
+      <workItem from="1581330658663" duration="102000" />
+      <workItem from="1581330809409" duration="440000" />
+      <workItem from="1581331310580" duration="979000" />
+      <workItem from="1581332498415" duration="298000" />
+      <workItem from="1581333047275" duration="873000" />
+      <workItem from="1581333942202" duration="1096000" />
+      <workItem from="1581416297193" duration="1228000" />
+      <workItem from="1581477929526" duration="1253000" />
+      <workItem from="1581487676053" duration="7385000" />
+      <workItem from="1581502257654" duration="6607000" />
+      <workItem from="1581559607322" duration="2925000" />
+      <workItem from="1581577896564" duration="5201000" />
+      <workItem from="1581589445889" duration="4257000" />
+      <workItem from="1581934094798" duration="666000" />
+      <workItem from="1582007512035" duration="1249000" />
+      <workItem from="1582021112527" duration="911000" />
+      <workItem from="1582168556641" duration="7513000" />
+      <workItem from="1582193611092" duration="611000" />
+      <workItem from="1582246059453" duration="358000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交信息1">
+      <created>1580975497400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580975497400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交信息1">
+      <created>1581323670892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581323670892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="02/12  16:10">
+      <created>1581495036043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581495036043</updated>
+    </task>
+    <task id="LOCAL-00004" summary="图书管理">
+      <created>1581508155335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581508155335</updated>
+    </task>
+    <task id="LOCAL-00005" summary="狼人杀发牌器">
+      <created>1581580639255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581580639255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试">
+      <created>1581594091046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581594091046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交信息1" />
+    <MESSAGE value="02/12  16:10" />
+    <MESSAGE value="图书管理" />
+    <MESSAGE value="狼人杀发牌器" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1582021141127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582021141127" />
+    <state x="399" y="99" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1581580775684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="99" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581580775684" />
+    <state x="240" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1582174253391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="240" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582174253391" />
+    <state x="340" y="5" key="CommitChangelistDialog2" timestamp="1581594089718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="340" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581594089718" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582012548768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582012548768" />
+    <state x="644" y="303" width="272" height="218" key="Github.ShareDialog" timestamp="1580975205564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="644" y="303" width="272" height="218" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1580975205564" />
+    <state x="538" y="114" key="Github.UntrackedFilesDialog" timestamp="1580975220083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="114" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580975220083" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1582179014751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582179014751" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1582179014751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582179014751" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1582179014750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582179014750" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1582179014751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582179014751" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581507825505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581507825505" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581507825505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581507825505" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581507825505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581507825505" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581507825505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581507825505" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1582012554137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582012554137" />
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581320696811" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1581594103121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581594103121" />
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582246398857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582246398857" />
+    <state x="467" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1581320110574" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1581591602590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1581591602590" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581578232827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581578232827" />
+  </component>
+</project>

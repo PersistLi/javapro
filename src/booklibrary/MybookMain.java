@@ -1,6 +1,7 @@
 package booklibrary;
 
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -8,9 +9,13 @@ import java.util.Scanner;
 public class MybookMain {
     public static Mybook[] books = new Mybook[200];
     public static List<Mybook> list = new ArrayList<>();
-    
+    public static File file = new File("G:/books");
     public static void main(String[] args) {
-        inputData(list);
+
+        if(!file.exists()){
+            inputData(list);
+        }
+
         menu();
 
         /*addbook(list);*/
@@ -58,7 +63,7 @@ public class MybookMain {
             books.add(mybook);
         }
     }
-    public  static void print(List<Mybook> books){
+    public static void print(List<Mybook> books){
         for(int i= 0;i<books.size();i++){
             System.out.println(books.get(i));
         }
@@ -88,7 +93,7 @@ public class MybookMain {
         System.out.println("没有"+name+"删除失败");
         menu();
     }
-    public static  void addbook(List<Mybook> books){
+    public static void addbook(List<Mybook> books){
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入书名");
         String name = scanner.next();
@@ -105,5 +110,7 @@ public class MybookMain {
         books.add(mybook);
         menu();
     }
-
+    public static void save(){
+        
+    }
 }
